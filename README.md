@@ -30,9 +30,9 @@ This will run the three separate analysis scripts and generate an HTML report fo
 
 ## Limitations
 
-This script only analyzes email headers, and does not provide any other information about the email itself.
-The script is designed to work with a specific input format for the email header, and may not work properly if the header is incomplete or in a different format than expected.
-The script relies on the availability and accuracy of the APIs used for each analysis. If any of the APIs are unavailable or return incorrect results, the analysis may be incomplete or incorrect.
+1. This script only analyzes email headers, and does not provide any other information about the email itself.
+2. The script is designed to work with a specific input format for the email header, and may not work properly if the header is incomplete or in a different format than expected.
+3. The script relies on the availability and accuracy of the APIs used for each analysis. If any of the APIs are unavailable or return incorrect results, the analysis may be incomplete or incorrect.
 
 ## License
 
