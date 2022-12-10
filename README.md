@@ -9,7 +9,6 @@ To run the scripts in this project, you will need to have the following Python m
 ```
 - requests
 - re
-- subprocess.run
 ```
 
 You can install these modules by running the following command:
@@ -17,6 +16,13 @@ You can install these modules by running the following command:
 ```
 pip install -r requirements.txt
 ```
+
+In addition, you will need to obtain API keys for the VirusTotal, urlscan, and haveibeenpwned APIs. You can sign up for these services and obtain your API keys on the following websites:
+
+- VirusTotal: [https://www.virustotal.com/gui/join-us](https://www.virustotal.com/gui/join-us)
+- urlscan: [https://urlscan.io/about-api/](https://urlscan.io/about-api/)
+
+Once you have obtained your API keys, you will need to add them to their respective files, where indicated, before running the scripts.
 
 ## Usage
 
@@ -36,4 +42,4 @@ This will run the three separate analysis scripts and generate an HTML report fo
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/spinout8121/email_header_analysis/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
