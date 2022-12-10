@@ -9,12 +9,15 @@ To run the scripts in this project, you will need to have the following Python m
 ```
 - requests
 - re
+- subprocess.run
+
 ```
 
 You can install these modules by running the following command:
 
 ```
 pip install -r requirements.txt
+
 ```
 
 ## Usage
@@ -23,6 +26,7 @@ To run the scripts, you can use the following command:
 
 ```
 python main.py
+
 ```
 
 This will run the three separate analysis scripts and generate an HTML report for each analysis. The reports will be saved to files called `ip_analysis.html`, `url_analysis.html`, and `email_analysis.html`.
