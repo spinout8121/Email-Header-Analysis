@@ -18,7 +18,7 @@ You can install these modules by running the following command:
 pip install -r requirements.txt
 ```
 
-In addition, you will need to obtain API keys for the VirusTotal, urlscan, and haveibeenpwned APIs. You can sign up for these services and obtain your API keys on the following websites:
+In addition, you will need to obtain API keys for the VirusTotal, and urlscan APIs. You can sign up for these services and obtain your API keys on the following websites:
 
 - VirusTotal: [https://www.virustotal.com/gui/join-us](https://www.virustotal.com/gui/join-us)
 - urlscan: [https://urlscan.io/about-api/](https://urlscan.io/about-api/)
