@@ -42,4 +42,4 @@ This will run the three separate analysis scripts and generate an HTML report fo
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/spinout8121/Email-Header-Analysis/blob/main/LICENSE) file for details.
