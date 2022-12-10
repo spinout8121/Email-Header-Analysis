@@ -9,6 +9,7 @@ To run the scripts in this project, you will need to have the following Python m
 ```
 - requests
 - re
+- subprocess.run
 ```
 
 You can install these modules by running the following command:
