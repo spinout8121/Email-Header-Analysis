@@ -36,4 +36,4 @@ The script relies on the availability and accuracy of the APIs used for each ana
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/spinout8121/email_header_analysis/blob/main/LICENSE) file for details.
